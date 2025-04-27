@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Updated from GitHub
 
 Changed from Local
+
+Modified in new-readme
