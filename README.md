@@ -82,13 +82,11 @@
 <!-- 📊 GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanTharaka&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  
   <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=IshanTharaka&theme=onedark&hide_border=false" alt="GitHub Streak" style="display:inline;"/>
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanTharaka&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display:inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=IshanTharaka&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=IshanTharaka&theme=onedark&hide_border=false" alt="GitHub Streak"/>
   </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanTharaka&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 
